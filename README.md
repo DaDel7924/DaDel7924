@@ -1,5 +1,6 @@
 ### 你好！我是小呼，请多关照！🐺
 
+- 🐱‍💻 Beginner of Coding
 - 🔭 I’m currently working at home :(
 - 🌱 I’m currently learning C++ and Computer Science
 - 🌏 Available languages for me: `Chinese|English`
