@@ -5,4 +5,6 @@
 - 🌏 Available languages for me: `Chinese|English`
 - 🐱‍💻 Beginner of Coding
 
-[![データ削除's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaDel7924&locale=cn&show_icons=true&theme=radical)](https://github.com/DaDel7924/github-readme-stats)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DaDel7924&locale=cn&show_icons=true&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaDel7924&show_icons=true&layout=compact" />
