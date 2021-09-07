@@ -1,4 +1,4 @@
-## 你好！我是小呼，请多关照！
+## 你好！我是小呼，请多关照！👋🏼
 
 - (🐺->next = <img align="center" src="https://user-images.githubusercontent.com/45611255/132380871-a2e55f4d-8eb4-4221-8cdc-f8f8d8399ddb.png" height="55" width="55"/>)
 - 🔭 I’m currently working at home :(
