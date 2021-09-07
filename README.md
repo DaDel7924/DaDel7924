@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning C++ and Computer Science
 - 🌏 Available languages for me: `Chinese|English`
 
-[![DaDel7924's GitHub stats](https://github-readme-stats.vercel.app/api?DaDel7924=anuraghazra&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![DaDel7924's GitHub stats](https://github-readme-stats.vercel.app/api?uesrname=DaDel7924&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
