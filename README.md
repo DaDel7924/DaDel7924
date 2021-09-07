@@ -10,4 +10,4 @@
 ---
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DaDel7924&locale=cn&show_icons=true&theme=prussian" />     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaDel7924&locale=cn&show_icons=true" />
 
-###### *以此希望让自己再接再厉*
+ *以此希望以上的数据能够激励我，在Coding的道路上越走越远*
