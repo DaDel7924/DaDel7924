@@ -5,5 +5,6 @@
 - 🌏 Available languages for me: `Chinese|English`
 - 🐱‍💻 Beginner of Coding
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DaDel7924&locale=cn&show_icons=true&theme=prussian" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaDel7924&show_icons=true" />
+📈GitHub 统计数据
+---
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DaDel7924&locale=cn&show_icons=true&theme=prussian" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaDel7924&show_icons=true" />
