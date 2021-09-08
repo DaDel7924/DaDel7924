@@ -8,6 +8,6 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/45611255/132380881-f4c3d7d2-dd60-44ef-bfe5-3b86e92a25f5.png" height="45" width="45"/>   GitHub 统计数据
 ---
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DaDel7924&locale=cn&show_icons=true&theme=prussian" />     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaDel7924&locale=cn&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DaDel7924&locale=cn&show_icons=true&theme=prussian" />     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaDel7924&locale=cn&show_icons=true&theme=blueberry" />
 
  *以此希望以上的数据能够激励我，在Coding的道路上越走越远*
